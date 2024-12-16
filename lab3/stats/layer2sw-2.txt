@@ -1,0 +1,68 @@
+sw2>en
+sw2#show interfaces stats
+GigabitEthernet0/0
+          Switching path    Pkts In   Chars In   Pkts Out  Chars Out
+               Processor        772      54400        534      39447
+             Route cache          0          0          0          0
+                   Total        772      54400        534      39447
+GigabitEthernet0/1
+          Switching path    Pkts In   Chars In   Pkts Out  Chars Out
+               Processor        167      18436        113      14786
+             Route cache          0          0          0          0
+                   Total        167      18436        113      14786
+GigabitEthernet0/2
+          Switching path    Pkts In   Chars In   Pkts Out  Chars Out
+               Processor        227      21092        802      55844
+             Route cache          0          0          0          0
+                   Total        227      21092        802      55844
+GigabitEthernet0/3
+          Switching path    Pkts In   Chars In   Pkts Out  Chars Out
+               Processor        165      17859        115      14979
+             Route cache          0          0          0          0
+                   Total        165      17859        115      14979
+GigabitEthernet1/0
+          Switching path    Pkts In   Chars In   Pkts Out  Chars Out
+               Processor        236      21690        796      55410
+             Route cache          0          0          0          0
+                   Total        236      21690        796      55410
+GigabitEthernet1/1
+          Switching path    Pkts In   Chars In   Pkts Out  Chars Out
+               Processor        165      17925        116      15111
+             Route cache          0          0          0          0
+                   Total        165      17925        116      15111
+GigabitEthernet1/2
+          Switching path    Pkts In   Chars In   Pkts Out  Chars Out
+               Processor        761      53042        536      39758
+             Route cache          0          0          0          0
+                   Total        761      53042        536      39758
+GigabitEthernet1/3
+          Switching path    Pkts In   Chars In   Pkts Out  Chars Out
+               Processor        167      18029        115      14975
+             Route cache          0          0          0          0
+                   Total        167      18029        115      14975
+GigabitEthernet2/0
+          Switching path    Pkts In   Chars In   Pkts Out  Chars Out
+               Processor        161      17616        106      13906
+             Route cache          0          0          0          0
+                   Total        161      17616        106      13906
+Port-channel1
+          Switching path    Pkts In   Chars In   Pkts Out  Chars Out
+               Processor        396      30203          0          0
+             Route cache          0          0          0          0
+                   Total        396      30203          0          0
+Port-channel5
+          Switching path    Pkts In   Chars In   Pkts Out  Chars Out
+               Processor         96      11225          0          0
+             Route cache          0          0          0          0
+                   Total         96      11225          0          0
+Port-channel6
+          Switching path    Pkts In   Chars In   Pkts Out  Chars Out
+               Processor        103      12509          0          0
+             Route cache          0          0          0          0
+                   Total        103      12509          0          0
+Port-channel7
+          Switching path    Pkts In   Chars In   Pkts Out  Chars Out
+               Processor        364      25545          0          0
+             Route cache          0          0          0          0
+                   Total        364      25545          0          0
+sw2#
