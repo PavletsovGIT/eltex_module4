@@ -206,7 +206,7 @@ PC5> ping 192.168.1.7
 
 ## Метки на маршрутах и их стоимости
 ### Скриншоты Wireshark в папке Wireshark!
-Скриншот №1
+![](wireshark/1.png)
 
 ## Перехват Hello пакетов
 
@@ -217,7 +217,19 @@ conf t
 no vlan 100-300
 ```
 ### Скриншоты Wireshark в папке Wireshark!
-Скриншоты №2-8
+![](wireshark/2.png)
+
+![](wireshark/3.png)
+
+![](wireshark/4.png)
+
+![](wireshark/5.png)
+
+![](wireshark/6.png)
+
+![](wireshark/7.png)
+
+![](wireshark/8.png)
 
 ## Изменение стоимости маршрута
 Для изменения стоимости маршрута R порта на коммутаторе Layer2Switch-2 перейдём в настройки интерфейса fastEthernet0/0 и изменит стоимость маршрута н 10:
@@ -271,5 +283,5 @@ Gi1/3               Altn BLK 4         128.8    Shr
 Gi2/0               Desg FWD 4         128.9    Shr
 ```
 ### Скриншоты Wireshark в папке Wireshark!
-Скриншот №9
+![](wireshark/9.png)
 
